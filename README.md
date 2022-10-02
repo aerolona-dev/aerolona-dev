@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @aerolona-dev
+- 👀 I’m interested in Python and Automation
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on fun projects
+- 📫 How to reach me: @ctnayt at Twitter.
