@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @aerolona-dev
-- 👀 I’m interested in Front-End
-- 🌱 I’m currently learning HTML, CSS, JS
-- 💞️ I’m looking to collaborate on fun projects
-- 📫 How to reach me: here!?
+✨ Henlo, i’m @aerolona-dev! ✨
+<br>
+✨ I’m interested in Front-End stuff ✨
+<br>
+✨ Currently trying to learn HTML, CSS, JS ✨
+<br>
+✨ Discord: aerolona ✨
